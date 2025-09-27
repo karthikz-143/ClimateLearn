@@ -1,2 +1,2 @@
-ClimateLearn
+
 ClimateLearn is a Python library for accessing state-of-the-art climate data and machine learning models in a standardized, straightforward way. This library provides access to multiple datasets, a zoo of baseline approaches, and a suite of metrics and visualizations for large-scale benchmarking of statistical downscaling and temporal forecasting methods. For further context on our past motivation and future plans, check out our announcement blog post. Also, check out our arxiv preprint that showcases the flexibility of ClimateLearn in performing benchmarking and analysis on the robustness and transfer performance of deep learning models.
